@@ -1,1 +1,1 @@
-(1) create a script that switches the current user to bettey
+(1) ceate a script that switches the current user to betty. (2)
